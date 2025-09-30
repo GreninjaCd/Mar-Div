@@ -1,5 +1,7 @@
 # Marine Diversity
 
+Prototype pipeline for taxonomic data analysis and species‑distribution prediction using OBIS occurrence data and a Random Forest baseline. Includes scripts, notebook, trained model, and visualization artifacts.
+
 This repository contains scripts and notebooks for processing OBIS data (Indian Ocean) and training a simple ML model.
 
 Repository structure (created):
