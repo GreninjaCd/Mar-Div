@@ -19,5 +19,3 @@ Repository structure (created):
   - models/
   - plots/
   - reports/
-
-See the `scripts/` folder for runnable stubs to fetch, process, prepare ML data, train a model, and generate visuals.
