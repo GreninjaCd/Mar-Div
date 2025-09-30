@@ -1,4 +1,4 @@
-# Mar Div
+# Marine Diversity
 
 This repository contains scripts and notebooks for processing OBIS data (Indian Ocean) and training a simple ML model.
 
