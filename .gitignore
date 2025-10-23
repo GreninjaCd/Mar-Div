@@ -1,0 +1,52 @@
+--- Python ---
+
+Virtual environment
+
+/.venv
+
+Compiled Python files
+
+*.py[cod]
+pycache/
+
+--- Secrets ---
+
+CRITICAL: Never commit your service account keys or credentials
+
+/gcp/
+*.env
+
+--- Data ---
+
+Ignore all large, downloaded raw data
+
+./data/raw
+
+Ignore all large, processed data
+
+./data/processed
+
+--- Outputs & Artifacts ---
+
+Ignore all generated models, plots, and maps
+
+The /outputs/ rule covers all files inside it (html, png, joblib)
+
+/outputs/
+
+--- Jupyter Notebook ---
+
+Ignore the runtime checkpoints
+
+.ipynb_checkpoints/
+
+--- OS-specific files ---
+
+macOS
+
+.DS_Store
+
+Windows
+
+Thumbs.dbdata/raw/oceanography/*.csv
+data/raw/oceanography/*.nc
